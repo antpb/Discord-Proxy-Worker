@@ -3,7 +3,9 @@
 A Cloudflare Worker that serves as a proxy for Discord bot interactions, featuring WebSocket support and Durable Objects for state management. This worker handles Discord's interaction verification, WebSocket connections, and provides a clean API for bot interactions.
 
 If this helped you, please consider sending some coin.
+
 SOL: 5h7YzknKdQKA9QxiZKdt3X5JpjVAyoTEQUroaRGuphAx
+
 ETH: 0x94899E0Cc3115D7761EeCd9bBc04D8eBff9de871
 
 ## Features
