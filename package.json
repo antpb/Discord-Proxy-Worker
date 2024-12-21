@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "Buffer": "^0.0.0",
+    "discord-interactions": "^4.1.0",
+    "uuid": "^11.0.3"
+  }
+}
